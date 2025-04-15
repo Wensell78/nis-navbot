@@ -1,0 +1,9 @@
+{
+  "build": {
+    "env": {}
+  },
+  "deploy": {
+    "startCommand": "python bot.py"
+  }
+}
+
